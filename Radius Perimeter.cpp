@@ -14,4 +14,6 @@ int main() {
 	cin >> ray;
 
 	cout << "Perimetro: " << perimetro(ray);
+
+	return 0;
 }
